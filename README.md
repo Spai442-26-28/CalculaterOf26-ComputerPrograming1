@@ -24,6 +24,7 @@ Button press should show a number - (working)
 Op Button press should work - (working)
 "AI" button pressed should show text - (working)
 when press equals should give result - (not working)
+clear button (C) clears the screen - (working)
 ## Other
 ![Calculater2026](https://github.com/Spai442-26-28/CalculaterOf26-ComputerPrograming1/blob/main/images/calc2026.png?raw=true)
 
