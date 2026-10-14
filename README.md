@@ -11,7 +11,7 @@ This respiratory of for education both for the dev and user in programing and le
 made by Stephen P. Wallace 2026
 
 ## controls:
-mouse (right click)
+mouse (right click)- use buttons listed on the calculator screen.
 
 ## requires:
 Processing 4.0 (or higher)
