@@ -41,6 +41,9 @@ clear button (C) clears the screen - (working)
 3:unzip the download file and open prossesing
 4:point it at the unzipped file (Calculater.pde)
 5:press open or run and have fun
+
+## Whats next:
+fixing bugs and giver a better looking UI
 ## Other:
 ![Calculater2026](https://github.com/Spai442-26-28/CalculaterOf26-ComputerPrograming1/blob/main/images/calc2026.png?raw=true)
 
